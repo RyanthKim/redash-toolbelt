@@ -90,3 +90,9 @@ def main(url, key, slug):
 
 if __name__ == "__main__":
     main()
+
+
+
+print(main('https://redash.modusign.co.kr/api','k5IcjRvUki7KVnEhrf4ppjqux7Mkz7IXfxPz4DLW'))
+
+

@@ -44,3 +44,6 @@ def main(redash_url, api_key):
 
 if __name__ == "__main__":
     main()
+
+
+main('https://redash.modusign.co.kr/api','k5IcjRvUki7KVnEhrf4ppjqux7Mkz7IXfxPz4DLW')
